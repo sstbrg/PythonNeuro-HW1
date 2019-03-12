@@ -1,1 +1,0 @@
-sagol-python-for-neuroscientists
